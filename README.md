@@ -2,6 +2,8 @@
 
 A minimal, clean and elegant portfolio template for showcasing your work and skills.
 
+This is the public version of my personal portfolio, which you can view [here](https://ubednama.netlify.app/).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
