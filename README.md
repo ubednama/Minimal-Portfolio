@@ -21,7 +21,7 @@ git@2.17.1 or higher
 
 ```bash
 # 1. Clone the repository:
-git clone https://github.com/ubednama/minimal-portfolio.git
+git clone https://github.com/ubednama/Minimal-Portfolio.git
 cd minimal-portfolio
 
 # Install dependencies
